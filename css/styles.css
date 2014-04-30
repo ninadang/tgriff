@@ -1,0 +1,70 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700);
+
+.name, .header, .header-light {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 48px;
+	text-align: center;
+	padding-top: 150px;
+	margin: 0px;
+}
+
+.header, .header-light {
+	padding-top: 90px;
+	font-size: 28px;
+	color: #f6f6f6;
+}
+
+.header-light {
+	color: #444349;
+}
+
+.titles, .projects {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+	padding-top: 20px;
+	text-align: center;
+}
+
+.projects {
+	font-size: 14px;
+}
+
+.location {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 14px;
+	padding-top: 10px;
+	text-align: center;
+}
+
+.about, .about-inner {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+	width: 55%;
+	margin-left: 25%;
+	color: #f6f6f6;
+	padding-top: 80px;
+	margin-top: 0px;
+}
+
+.about-inner {
+	padding-top: 0px;
+}
+
+.projlink:hover {
+	cursor: pointer;
+	background-color: #444349;
+	color: #f6f6f6;
+	border-radius: 3px;
+}
+
+.slide1 {
+	background: url(../img/white_wall_hash.png) repeat 0 fixed;
+}
+
+.slide2 {
+	background: url(../img/stardust.png) repeat 0 fixed;
+}
